@@ -754,6 +754,8 @@ main {
     transition: 0.15s;
 }
 
+
+
 /*btns*/
 
 /*pagination*/
@@ -939,6 +941,15 @@ main {
         display: flex;
         justify-content: center;
         align-items: center;
+        transition: 0.15s;
+    }
+
+    .main__block__four__slider1__navigation__next:hover {
+        background-color: #FBCE51;
+        transition: 0.15s;
+    }
+    .main__block__four__slider1__navigation__prev:hover {
+        background-color: #FBCE51;
         transition: 0.15s;
     }
 
